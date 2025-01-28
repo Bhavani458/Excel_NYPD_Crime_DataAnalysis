@@ -54,5 +54,6 @@ Based on the analysis, the following actionable recommendations were made:
 - **Weekend Monitoring**: Maintain targeted coverage in Brooklyn and Manhattan despite lower arrest rates on weekends.
 
 ## 5. Additional Information
-For detailed insights, visualizations, and a comprehensive breakdown of the findings, please refer to the **PDF presentation** accompanying this project. The document provides an in-depth view of the analysis and methodology used.
+For detailed insights, visualizations, and a comprehensive breakdown of the findings, please refer to the **PDF presentation** and dashboard on Tableau named [New York Crime Statistics](https://public.tableau.com/app/profile/bhavani.priya.ganji2339/viz/NYPDCrimeStatistics/Dashboard1)_ accompanying this project. The document provides an in-depth view of the analysis and methodology used.
+
 
